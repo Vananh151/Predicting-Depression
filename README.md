@@ -11,11 +11,11 @@ Features collected: 19
 - Daily screen time (phone/computer usage per day)
 - Financial pressure
 - ...
-<img width="945" height="1012" alt="image" src="https://github.com/user-attachments/assets/42902456-1f0c-40bc-8a59-c5a5caf35e36" />
 # Labels: The dataset is labeled based on the self-reported responses and scored using a predefined scale. It includes three levels of depression
 - No depression  
 - Mild depression   
 - Severe depression
+<img width="945" height="1012" alt="image" src="https://github.com/user-attachments/assets/42902456-1f0c-40bc-8a59-c5a5caf35e36" />
 # Model Pipeline
 1. Data cleaning: Handling missing values, noise filtering
 2. Feature Engineering: Normalization, encoding categorical variables
